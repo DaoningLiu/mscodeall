@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45e27a83-b9f0-48dd-ad03-df684ee7d3f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/account/service/impl/SysUserDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/account/service/impl/SysUserDetailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/controller/SysUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/controller/SysUserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/entity/SysUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/entity/SysUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/mapper/SysUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/mapper/SysUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/service/SysUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/service/SysUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/service/impl/SysUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/admin/service/impl/SysUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/auth/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/auth/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/chinatechstar/component/commons/config/CommonResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/chinatechstar/component/commons/config/CommonResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/chinatechstar/admin/mapper/SysUserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/chinatechstar/admin/mapper/SysUserMapper.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../JavaEE/Maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\JavaEE\Maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="21OZ9WqNGqghkOGh8rKztTuzpVT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mscode" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\SpringCloudResearch\MSCode\mscodeall\src\main\java\com\chinatechstar\component\commons\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MSCodeGatewayApplication">
+    <configuration name="PDFSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinatechstar.component.commons.utils.PDFSample" />
+      <module name="mscodeall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinatechstar.component.commons.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PDFUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinatechstar.component.commons.utils.PDFUtils" />
+      <module name="mscodeall" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinatechstar.component.commons.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MSCodeGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mscodeall" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chinatechstar.MSCodeGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PDFSample" />
+        <item itemvalue="Application.PDFUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\YangTian\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\SpringCloudResearch\MSCode\mscodeall" />
+          <option name="myCopyRoot" value="E:\SpringCloudResearch\MSCode\mscodeall" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\SpringCloudResearch\MSCode\mscodeall" />
+          <option name="myCopyRoot" value="E:\SpringCloudResearch\MSCode\mscodeall" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45e27a83-b9f0-48dd-ad03-df684ee7d3f9" name="Changes" comment="" />
+      <created>1637813947232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637813947232</updated>
+      <workItem from="1637813949745" duration="857000" />
+      <workItem from="1637895439973" duration="315000" />
+      <workItem from="1637896492988" duration="617000" />
+      <workItem from="1637924089852" duration="818000" />
+      <workItem from="1638152308272" duration="79000" />
+      <workItem from="1638267615524" duration="761000" />
+      <workItem from="1638321840391" duration="2000" />
+      <workItem from="1638699751602" duration="665000" />
+      <workItem from="1639125486930" duration="909000" />
+      <workItem from="1639145063536" duration="627000" />
+      <workItem from="1639279904614" duration="706000" />
+      <workItem from="1639316670579" duration="696000" />
+      <workItem from="1639355943029" duration="1255000" />
+      <workItem from="1639442155504" duration="651000" />
+      <workItem from="1639530421681" duration="772000" />
+      <workItem from="1639710121771" duration="1129000" />
+      <workItem from="1639966158043" duration="1252000" />
+      <workItem from="1640080401434" duration="295000" />
+      <workItem from="1640224421225" duration="1382000" />
+      <workItem from="1640309643367" duration="3946000" />
+      <workItem from="1640438986444" duration="591000" />
+      <workItem from="1640487977814" duration="800000" />
+      <workItem from="1640586456292" duration="2122000" />
+      <workItem from="1640859647144" duration="819000" />
+      <workItem from="1640914984183" duration="1229000" />
+      <workItem from="1641120455282" duration="659000" />
+      <workItem from="1641290905942" duration="639000" />
+      <workItem from="1641434648929" duration="7658000" />
+      <workItem from="1641552339361" duration="660000" />
+      <workItem from="1641634706022" duration="761000" />
+      <workItem from="1641711259324" duration="627000" />
+      <workItem from="1641777205657" duration="325000" />
+      <workItem from="1641980284531" duration="4977000" />
+      <workItem from="1642043468035" duration="12484000" />
+      <workItem from="1642082316251" duration="2320000" />
+      <workItem from="1642127525259" duration="18693000" />
+      <workItem from="1642167268627" duration="3281000" />
+      <workItem from="1642216817644" duration="15006000" />
+      <workItem from="1642251788059" duration="6088000" />
+      <workItem from="1642298845717" duration="5706000" />
+      <workItem from="1642339258157" duration="894000" />
+      <workItem from="1642382631492" duration="619000" />
+      <workItem from="1642413580708" duration="538000" />
+      <workItem from="1642423749371" duration="18218000" />
+      <workItem from="1642473839625" duration="20169000" />
+      <workItem from="1642513139963" duration="24484000" />
+      <workItem from="1642542934224" duration="228000" />
+      <workItem from="1642546099352" duration="667000" />
+      <workItem from="1642547560805" duration="443000" />
+      <workItem from="1642662169008" duration="36000" />
+      <workItem from="1642842660395" duration="2455000" />
+      <workItem from="1642856043456" duration="764000" />
+      <workItem from="1642919491108" duration="7671000" />
+      <workItem from="1642942043685" duration="878000" />
+      <workItem from="1642942964115" duration="729000" />
+      <workItem from="1642943759210" duration="3638000" />
+      <workItem from="1642952228889" duration="1334000" />
+      <workItem from="1642988992657" duration="786000" />
+      <workItem from="1643185662989" duration="855000" />
+      <workItem from="1644402297650" duration="1044000" />
+      <workItem from="1644415362801" duration="1685000" />
+      <workItem from="1644658521346" duration="1124000" />
+      <workItem from="1644892646275" duration="1916000" />
+      <workItem from="1644933909790" duration="640000" />
+      <workItem from="1644978249032" duration="1495000" />
+      <workItem from="1645065773468" duration="1275000" />
+      <workItem from="1645145476772" duration="1281000" />
+      <workItem from="1645187149430" duration="760000" />
+      <workItem from="1645262938109" duration="836000" />
+      <workItem from="1645274420254" duration="703000" />
+      <workItem from="1645327193668" duration="1242000" />
+      <workItem from="1645362945232" duration="1262000" />
+      <workItem from="1645407322603" duration="3152000" />
+      <workItem from="1645522200665" duration="943000" />
+      <workItem from="1645601677885" duration="701000" />
+      <workItem from="1646014274421" duration="196000" />
+      <workItem from="1646377292339" duration="3000" />
+      <workItem from="1646377588679" duration="8000" />
+      <workItem from="1646817351850" duration="1228000" />
+      <workItem from="1646965538340" duration="840000" />
+      <workItem from="1647351107124" duration="80000" />
+      <workItem from="1647764882156" duration="4521000" />
+      <workItem from="1647823568599" duration="4599000" />
+      <workItem from="1647830147056" duration="4431000" />
+      <workItem from="1647936567063" duration="3460000" />
+      <workItem from="1647953039400" duration="5301000" />
+      <workItem from="1648000897374" duration="3750000" />
+      <workItem from="1648004729540" duration="16913000" />
+      <workItem from="1648034442970" duration="5365000" />
+      <workItem from="1648083884920" duration="1247000" />
+      <workItem from="1648085172643" duration="14095000" />
+      <workItem from="1648107718297" duration="8032000" />
+      <workItem from="1648129863106" duration="4486000" />
+      <workItem from="1648167502370" duration="3120000" />
+      <workItem from="1648174718548" duration="1072000" />
+      <workItem from="1648178847371" duration="169000" />
+      <workItem from="1648202565236" duration="749000" />
+      <workItem from="1648263900711" duration="2557000" />
+      <workItem from="1648301363487" duration="2540000" />
+      <workItem from="1648363994600" duration="1483000" />
+      <workItem from="1648365542877" duration="371000" />
+      <workItem from="1648367280009" duration="2680000" />
+      <workItem from="1648389460409" duration="993000" />
+      <workItem from="1648428184881" duration="937000" />
+      <workItem from="1648522669288" duration="5969000" />
+      <workItem from="1648559293469" duration="3144000" />
+      <workItem from="1648603027102" duration="15829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
